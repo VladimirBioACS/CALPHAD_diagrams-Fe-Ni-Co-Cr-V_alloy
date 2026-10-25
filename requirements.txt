@@ -1,0 +1,3 @@
+pycalphad
+matplotlib
+numpy
